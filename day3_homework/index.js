@@ -1,3 +1,4 @@
+//Sim's function:
 function print_fibonacci_sequence(){
     num1 = 0;
     num2 = 1;
